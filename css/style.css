@@ -1171,7 +1171,11 @@ form .sign-up{
     padding:  0;
     width: 100%;
 }
+.services-container {
+    display: flex;
+    flex-direction: column;
 
+}
 .arrivals .arrivals-slider .wrapper .box{
     width: 90%;
 }
